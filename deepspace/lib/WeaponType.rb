@@ -21,7 +21,6 @@ module Deepspace
           elsif @power == 4.0
               mensaje += "PLASMA"
           end
-          mensaje += "\tPotencia: #{@power}\n"
           return mensaje
         end
       end
