@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/weapon.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/CombatResult.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/shot_result.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/test_p1.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/dice.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/supplies_package.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/shield_booster.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/weapon_type.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/loot.rb</file>
-            <file>file:/home/usuario/Escritorio/pilar/segundo/pdo/practicas/p1/deepspace/lib/game_character.rb</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
